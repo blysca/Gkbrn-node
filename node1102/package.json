@@ -1,0 +1,18 @@
+{
+  "name": "node1102",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blysca",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "pm2": "^4.2.3"
+  }
+}
