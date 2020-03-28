@@ -1,7 +1,7 @@
 {
   "name": "node1102",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs start",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "ansi": "^0.3.1",
-    "colors": "^1.4.0"
+    "cheerio": "^1.0.0-rc.3",
+    "co-request": "^1.0.0",
+    "colors": "^1.4.0",
+    "minimist": "^1.2.5",
+    "nodemailer": "^6.4.6",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "pm2": "^4.2.3"
