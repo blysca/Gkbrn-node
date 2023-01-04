@@ -12,6 +12,6 @@
   "dependencies": {
     "cards": "^0.1.1",
     "readline-sync": "^1.4.7",
-    "terminal-kit": "^1.14.3"
+    "terminal-kit": "^3.0.0"
   }
 }
